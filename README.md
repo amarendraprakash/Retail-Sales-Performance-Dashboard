@@ -45,10 +45,10 @@ The goal is to generate business insights related to revenue, customer behavior,
 
 ## 📁 Project Structure
 Retail_Project/
-│
-├── dashboard/
-├── data/
-├── scripts/
-├── sql/
-├── screenshots/
-└── README.md
+|
+|-- dashboard/
+|-- data/
+|-- scripts/
+|-- sql/
+|-- screenshots/
+|--README.md
