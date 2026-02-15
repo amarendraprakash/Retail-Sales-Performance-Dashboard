@@ -2,8 +2,8 @@ import pandas as pd
 from sqlalchemy import create_engine
 
 # CHANGE password here
-username = "root"
-password = "62051"
+username = "MySql_USERNAME"
+password = "YOUR_PASSWORD_FOR_MySQL"
 host = "localhost"
 database = "retail_analytics"
 
